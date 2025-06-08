@@ -16,7 +16,7 @@
 
 Gemini 2.5 Pro是Google发布的最新多模态大模型，主打超强内容生成、图片识别、代码辅助等多种能力。2025年的Gemini 2.5 Pro在理解语境、图文处理和速度方面做到了行业顶级，Gemini 2.0 Flash则是“极速”版本，针对轻量与高并发场景。
 
-![Google Gemini 2.5 Pro 访问指南](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini25prohero.width-2200.format-webp.webp)
+([https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini25prohero.width-2200.format-webp.webp](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23bad287-6a29-45bb-ab64-5cb55a5f9066_2048x1747.png))
 
 #### Gemini 2.5 Pro的核心能力
 
