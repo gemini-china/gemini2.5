@@ -1,5 +1,5 @@
 # **Gemini 2.5 Pro 国内使用指南~（支持 Gemini-2.5-Pro、Gemini 2.0 Flash，无需翻墙）【2025年9月更新】**
-> 更新时间：2025年9月16日*
+> 更新时间：2025年9月21日*
 
 ## **目录**
 - [什么是Gemini 2.5 Pro？](#什么是gemini-25-pro)
@@ -56,7 +56,7 @@ Gemini 2.5 Pro是Google发布的最新多模态大模型，主打超强内容生
 | 网站                          | 支持模型&服务范围                                                                    |
 |-----------------------------|-----------------------------------------------------------------------------------|
 | [xsimplechat.com](https://xsimplechat.com)    | Gemini 2.5 Pro、Gemini 2.0 Flash、GPT-5、GPT o1、Claude 4 Sonnet等；AI绘画、PPT、联网查询       |
-| [chat.lanjing.pro](https://chat.lanjingai.org/) | Gemini全系列、Grok-3、DeepSeek满血版、Claude全系列、GPT-5/4/3、AI绘画、AI插件                            |
+| [ai.lanjing.pro](https://ai.lanjingai.org/) | Gemini全系列、Grok-3、DeepSeek满血版、Claude全系列、GPT-5/4/3、AI绘画、AI插件                            |
 | [guide1.lanjing.ai](https://guide1.lanjing.ai) | Gemini全系列，支持轻量高并发体验                                                            |
 
 **小Tip**：如果想全能选手就上XsimpleChat；追求极致专业可试试Lanjing系列。
